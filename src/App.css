@@ -1,8 +1,9 @@
 body {
-  background-image: url("/images/stars.jpg");
+  background-image: url("./stars.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
+  font-family: "Orbitron", sans-serif;
   color: white;
 }
 
@@ -16,12 +17,13 @@ input {
 }
 
 label {
-  font-size: 1.2em;
+  font-size: 1.4em;
+  font-weight: 500;
 }
 
 p {
-  font-size: 1.5em;
-  font-weight: 500;
+  font-size: 1.8em;
+  font-weight: 700;
 }
 
 .container {
