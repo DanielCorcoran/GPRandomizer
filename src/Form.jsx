@@ -20,7 +20,7 @@ class Form extends Component {
         <div className="form-group">
           <label htmlFor="sel1">Number of players:</label>
           <select
-            className="form-control col-6"
+            className="form-control col-4 col-md-3 col-lg-2"
             id="sel1"
             onChange={e => {
               this.setState({ value: e.target.value });

@@ -49,7 +49,7 @@ class App extends Component {
 
     return (
       <div>
-        <div className="container col-2">
+        <div className="container">
           <Form noOfFactions={this.pickFactions} />
         </div>
         <div className="container">{displayFactions}</div>
