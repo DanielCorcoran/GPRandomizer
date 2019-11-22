@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06c01dbd1c0cb6663d7c2aeda46e0acf",
+    "revision": "afda4775b131b903585825fdb5217f5e",
     "url": "/GPRandomizer/index.html"
   },
   {
