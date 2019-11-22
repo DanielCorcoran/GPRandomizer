@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddbbb1ebdb135f3b9ffae2ae655f04ec",
+    "revision": "32ea750ba339ce64dfe130916d6ff62e",
     "url": "/GPRandomizer/index.html"
   },
   {
-    "revision": "72f8568d046f5890775a",
-    "url": "/GPRandomizer/static/css/main.9907b2a4.chunk.css"
+    "revision": "24a1fd7b1c2f256a4553",
+    "url": "/GPRandomizer/static/css/main.08d30676.chunk.css"
   },
   {
     "revision": "fc710cba72c397b4e368",
     "url": "/GPRandomizer/static/js/2.42815128.chunk.js"
   },
   {
-    "revision": "72f8568d046f5890775a",
+    "revision": "24a1fd7b1c2f256a4553",
     "url": "/GPRandomizer/static/js/main.888f2b21.chunk.js"
   },
   {
